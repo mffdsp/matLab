@@ -1,0 +1,15 @@
++ add
+- sub
+* mult escalar e matriz
+.* mult array
+^ potencia escalar e matriz
+.^ potencia array
+\ ou / divisão
+.\ ou ./ divisão de array
+: Coluna
+() Argumentos e array index;
+[] Elementos de array
+, separa elementos numa linhas
+; separa colunas
+% formatação
+= atribuição
