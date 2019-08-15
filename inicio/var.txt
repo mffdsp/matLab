@@ -1,0 +1,9 @@
+who -> retorna todas variaveis usadas no código
+whos -> retorna todas variaveis de forma detalhada(name, size, bytes, class)
+clear var -> deleta a variavel especificada
+clear -> deleta todas as variaveis
+
+format long 22.222222222222
+format short 22.222
+format bank 22.22
+format short e 2.22e+01
