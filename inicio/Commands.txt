@@ -1,0 +1,47 @@
+## Command
+
+clc -> window clear
+clear -> remove var
+exist var -> verifica a existencia da variavel
+global var -> declara a variavel de forma global
+who -> lista var
+whos -> lista var com detalhes
+
+
+----------
+## format
+
+format shot
+format long
+format short e
+format long e
+format bank
+format +
+format rat
+format compact
+format loose
+
+----------
+## Array/Matrix
+
+cat -> concateca array
+find -> encontra indices com elementos
+length -> numero de elementos
+max -> retorna maior elemento
+min -> retorn menos elemento
+prod -> produto de cada coluna
+reshape -> muda tamanho do array
+size -> tamanho maximo do array
+sort -> ordena cara coluna
+sum -> soma cada coluna
+eye -> cria uma matriz identidade
+ones -> cria array composto apenas por 1's
+zeros -> cria array composto apenas por 0's
+det -> retorna determinante de um array
+inv -> inverso de matriz
+
+
+----
+
+## plotting
+
